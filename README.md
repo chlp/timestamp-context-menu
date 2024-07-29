@@ -7,4 +7,6 @@ Try here:
 * 1721911910854
 * 1721911910
 
-To install: download the entire repository folder and upload it to chrome extensions. Official google chrome the guide is here https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked.
+https://chromewebstore.google.com/detail/timestamp-converter/pmlnbfnennofecepkljclogbjobnmfce?pli=1
+
+or raw install: download the entire repository folder and upload it to chrome extensions. Official google chrome the guide is here https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked.
